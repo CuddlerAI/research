@@ -1,6 +1,6 @@
 # Diogenes Lab — Research
 
-Open research from **[Diogenes Lab](https://diogenesmodel.com)**: an open lab building models
+Open research from **Diogenes Lab**: an open lab building models
 that see, imagine, and play virtual worlds.
 
 This repository holds the reading, the method notes and the code skeletons behind that work —
@@ -100,9 +100,7 @@ needs.
 
 Internal operating material — cost models, compute budgets, contributor incentives, stop-loss
 thresholds, unreleased product state — is deliberately excluded. Some research notes exist that we
-have not finished clearing for release; [diogenesmodel.com/research](https://diogenesmodel.com/research)
-lists them with a **published / in preparation** status rather than pretending the shelf is emptier
-than it is.
+have not finished clearing for release. This repository contains only the material cleared for publication.
 
 If a document here references something you cannot find, that is why.
 
@@ -134,5 +132,4 @@ they describe is not.
 
 Found something wrong? That is the most useful thing you can tell us.
 
-- **contact@diogenesmodel.com**
-- [diogenesmodel.com](https://diogenesmodel.com) · [Hugging Face](https://huggingface.co/DiogenesLab)
+Please open an issue in this repository with the relevant document, claim, and supporting evidence.

@@ -20,7 +20,7 @@ class CosmosFrontend(nn.Module):
     """Frozen Cosmos-Tokenizer-CV4x8x8 (continuous). Encode frames -> latents.
 
     Decision (tokenizers.md / cosmos.md): adopt frozen; benchmark recon PSNR/rFVD
-    on held-out HakkoAI clips first; fine-tune the DECODER only if artifacts hurt.
+    on held-out screen clips first; fine-tune the DECODER only if artifacts hurt.
     Use 4x temporal (NOT 8x) to preserve low-Hz cursor/contact frames.
     """
 
