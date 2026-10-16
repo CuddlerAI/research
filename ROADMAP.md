@@ -7,7 +7,7 @@ optimism.
 Status vocabulary: **Alpha** = running, **Research** = reading and planning, **Blocked** = waiting
 on something upstream, **Deferred** = explicitly postponed.
 
-Last updated 2026-07. Live version: [diogenesmodel.com/models](https://diogenesmodel.com/models).
+Last updated 2026-07. This document records the research roadmap at that time.
 
 ---
 
@@ -162,5 +162,5 @@ Stated in advance, so it counts:
 - **Player** — if the deathmatch gate is missed with clean data and a working pipeline, the problem
   is the approach, not the sample count.
 
-If you think one of these is already settled, in either direction, we would like to hear it:
-**contact@diogenesmodel.com**
+If you think one of these is already settled, in either direction, please open an issue in this
+repository with the relevant evidence.
