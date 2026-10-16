@@ -10,7 +10,7 @@ tags:
 # World Model Research Notes
 
 > A living research knowledge base on **world models** — from gameplay/video data to robot control.
-> Maintained by **[Diogenes Lab](https://huggingface.co/DiogenesLab)** / **[Oratis](https://huggingface.co/Oratis)**.
+> Maintained by **Diogenes Lab** / **Oratis**.
 
 This repo collects our running survey of the world-model literature and the methods most relevant to
 learning interactive world models from gameplay/video and transferring them to robot autonomy.
