@@ -31,9 +31,7 @@ what has not been earned yet.
 
 ### [`world-model-research/`](world-model-research/)
 
-A research knowledge base on world models and the unlabeled-video → control bridge. Mirrors
-[`DiogenesLab/world-model-research`](https://huggingface.co/DiogenesLab/world-model-research)
-on Hugging Face.
+A research knowledge base on world models and the unlabeled-video → control bridge.
 
 **Start here**
 
@@ -123,7 +121,7 @@ they describe is not.
   author       = {Diogenes Lab},
   title        = {Diogenes Lab Research: world models, latent action, and the unlabeled-video to control bridge},
   year         = {2026},
-  howpublished = {\url{https://github.com/DiogenesModel/research}},
+  howpublished = {\url{https://github.com/CuddlerAI/research}},
   note         = {CC BY 4.0}
 }
 ```
